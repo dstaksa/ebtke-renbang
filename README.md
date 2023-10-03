@@ -1,46 +1,11 @@
-# demo1
+**Proyek yang saya kerjakan untuk kementerian ESDM, Direktorat Jendral Energi Baru, Terbarukan, dan Konservasi Energi (EBTKE) sebagai sistem analis, UI/UX Designer, dan Front-End Developer.**
 
-This template should help get you started developing with Vue 3 in Vite.
+# Ringkasan Proyek
 
-## Recommended IDE Setup
+Aplikasi Rencana Pembangunan EBTKE (BANGFRAS) merupakan sebuah platform yang dirancang untuk merencanakan dan mengelola pengembangan Energi Baru dan Terbarukan (EBT) dan Konservasi Energi (KE) dalam bagian pembangunan pembangkit energi yang berkesinambungan dengan energi baru yang terbarukan dan konservasi energi. Aplikasi ini bertujuan untuk mendorong penerapan sumber energi yang ramah lingkungan dan berkelanjutan, serta meningkatkan efisiensi dan penghematan energi
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+# Proses Bisnis
 
-## Type Support for `.vue` Imports in TS
+Dibawah ini proses bisnis (Probis) global yang dirancang untuk memenuhi beberapa kebutuhan pengguna. 
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
-
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+![Probis Global Renbang EBTKE](https://drive.google.com/file/d/1BgaabHOAjrWUeQxxRp1IhsAp8lvZpAlp/view?usp=drive_link)
