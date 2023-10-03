@@ -8,4 +8,5 @@ Aplikasi Rencana Pembangunan EBTKE (BANGFRAS) merupakan sebuah platform yang dir
 
 Dibawah ini proses bisnis (Probis) global yang dirancang untuk memenuhi beberapa kebutuhan pengguna. 
 
-![Probis Global Renbang EBTKE](https://drive.google.com/file/d/1BgaabHOAjrWUeQxxRp1IhsAp8lvZpAlp/view?usp=drive_link)
+![Probis Global Renbang EBTKE]
+<img src="(https://drive.google.com/file/d/1BgaabHOAjrWUeQxxRp1IhsAp8lvZpAlp/view?usp=drive_link)">
