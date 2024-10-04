@@ -60,7 +60,7 @@
 
 <script lang="ts">
 import { getAssetPath } from "@/core/helpers/assets";
-import { computed, defineComponent } from "vue";
+import { computed, defineComponent } from /*  "vue"; */
 import KTSearch from "@/layouts/main-layout/search/Search.vue";
 import KTNotificationMenu from "@/layouts/main-layout/menus/NotificationsMenu.vue";
 import KTQuickLinksMenu from "@/layouts/main-layout/menus/QuickLinksMenu.vue";
